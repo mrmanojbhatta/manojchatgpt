@@ -27,7 +27,7 @@
     <section>
       <h2>📁 GitHub Project</h2>
       <p>Click here to use use my chat bot free:<br>
-        <a href="https://github.com/mrmanojbhatta/manojchatgpt" target="_blank">🔗 github.com/mrmanojbhatta/manojchatgpt</a>
+        <a href="https://mrmanojbhatta.github.io/manojchatgpt/" target="_blank">🔗https://mrmanojbhatta.github.io/manojchatgpt/</a>
       </p>
     </section>
     <section>
